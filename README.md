@@ -50,7 +50,7 @@ O dataset utilizado no projeto contém 6 fotos diferentes de três pessoas:
 -   Unknown: representa pessoas desconhecidas e que já foram vistas pelo método. As imagens foram retiradas do site [shutterstock](https://www.shutterstock.com/?pl=PPC_GOO_BR_BD-264663191462&cr=ec&kw=shutterstocks&gclid=CjwKCAjwzdLrBRBiEiwAEHrAYiGZ2z7Orb958rPQUfwsDix8a5cnI-iVuTu8McXYfxPLgTjWeLPIcxoC52MQAvD_BwE&gclsrc=aw.ds).
     
 Caso o usuário deseje incluir sua própria foto, basta acessar a pasta de datasets e adicionar uma nova pasta com o seu nome e algumas fotos (recomenda-se entre 10 e 20).
-### Executando os códigos
+### Making a test
 
 O primeiro passo é a execução do extrator de features:
 
