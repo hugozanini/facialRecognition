@@ -72,7 +72,7 @@ O reconhecimento das faces em tempo real é feito a partir do código a seguir:
     --recognizer output/recognizer.pickle \  
     --le output/le.pickle
 
-Visando identificar a robustez do método a variações externas como intensidade de luz e qualidade da imagem, utilizando um smartphone, colocou-se em frente a webcam uma foto de Bill Gates e Steve Jobs. A abaixo mostra os resultados.
+Visando identificar a robustez do método a variações externas como intensidade de luz e qualidade da imagem, utilizando um smartphone, colocou-se em frente a webcam uma foto de Bill Gates e Steve Jobs. A figura abaixo mostra os resultados.
 
 ![Resultado da identificação facial](https://lh3.googleusercontent.com/tWBfre17r1h7jjijtZiHBeTSZPcq99bxsBny4eLQi2iRiPs4iypN5q8nOydi63rn3zcB7oumVapDKA)
 
