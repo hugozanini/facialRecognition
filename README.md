@@ -76,6 +76,6 @@ Visando identificar a robustez do método a variações externas como intensidad
 
 ![Resultado da identificação facial](https://lh3.googleusercontent.com/tWBfre17r1h7jjijtZiHBeTSZPcq99bxsBny4eLQi2iRiPs4iypN5q8nOydi63rn3zcB7oumVapDKA)
 
-Este teste cobre todos os aspectos básicos da identificação facial em imagens pois, identifica múltiplas faces em uma imagem, apresenta bons resultados para condições adversas e com um número reduzido de imagens de treino e executa todo o processo em tempo real a partir de vídeos.
+Este teste cobre aspectos fundamentais da identificação facial em imagens pois, identifica múltiplas faces em uma imagem, apresenta bons resultados para condições adversas e com um número reduzido de imagens de treino e executa todo o processo em tempo real a partir de vídeos.
 ## References
  [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
