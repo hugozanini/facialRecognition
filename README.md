@@ -18,7 +18,7 @@ O projeto está implementado em python e é necessário a instalação dos segui
 
 *É recomendável a criação de um ambiente virtual antes da instalação.* 
 
-## Estrutura do projeto 
+## Project structure
 
 O projeto está organizado da seguinte maneira:
  ![enter image description here](https://lh4.googleusercontent.com/F9RIVVpcwXImOfvKoBCRKAbHeTnEYmsA5QbxzLjVKsMkHxpayVSuYjvKzvg4qNFdP7oaW1SMhNjCt6PxFRZ2ht1AcBvci43b3LygjdChkGlSlEO3Wbx-N0q3fm1NH8V1iuNEgoTQ)
