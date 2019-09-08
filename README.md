@@ -1,7 +1,7 @@
 # Facial Recognition
 
 
-Este repositóri implementa um método de reconhecimento facial em tempo real utilizando [OpenCV](https://opencv.org/) e a rede neural [Facenet](https://arxiv.org/pdf/1503.03832.pdf) .
+Este repositório implementa um método de reconhecimento facial em tempo real utilizando [OpenCV](https://opencv.org/) e a rede neural [Facenet](https://arxiv.org/pdf/1503.03832.pdf) .
 
 
 
@@ -9,12 +9,12 @@ Este repositóri implementa um método de reconhecimento facial em tempo real ut
 # Requeriments
 O projeto está implementado em python e é necessário a instalação dos seguintes pacotes para a execução dos códigos:
 
-imutils==0.5.3
-joblib==0.13.2
-numpy==1.17.2
-opencv-contrib-python==4.1.1.26
-scikit-learn==0.19.2
-scipy==1.3.1
+- imutils==0.5.3
+- joblib==0.13.2
+- numpy==1.17.2
+- opencv-contrib-python==4.1.1.26
+- scikit-learn==0.19.2
+- scipy==1.3.1
 
 *É recomendável a criação de um ambiente virtual antes da instalação* 
 
